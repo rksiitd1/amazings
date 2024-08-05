@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amazings/static/css/main.3f51f096.css",
+    "main.js": "/amazings/static/js/main.b7abb00e.js",
+    "static/js/453.644e2780.chunk.js": "/amazings/static/js/453.644e2780.chunk.js",
+    "index.html": "/amazings/index.html",
+    "main.3f51f096.css.map": "/amazings/static/css/main.3f51f096.css.map",
+    "main.b7abb00e.js.map": "/amazings/static/js/main.b7abb00e.js.map",
+    "453.644e2780.chunk.js.map": "/amazings/static/js/453.644e2780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f51f096.css",
+    "static/js/main.b7abb00e.js"
+  ]
+}
